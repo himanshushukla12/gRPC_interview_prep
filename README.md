@@ -1,5 +1,6 @@
 # gRPC interview Questions.   
-![Image Description](https://raw.githubusercontent.com/himanshushukla12/gRPC_interview_prep/main/image.png)
+<img src="https://raw.githubusercontent.com/himanshushukla12/gRPC_interview_prep/main/image.png" width="100" height="100" alt="Image Description">
+
    
 Certainly, here are concise answers to your questions:   
 1. **What is gRPC, and how does it differ from traditional REST APIs?**   
