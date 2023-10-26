@@ -1,5 +1,6 @@
 # gRPC interview Questions.   
-![image.png]((https://github.com/himanshushukla12/gRPC_interview_prep/blob/main/image.png))    
+![Image Description](https://raw.githubusercontent.com/himanshushukla12/gRPC_interview_prep/main/image.png)
+   
 Certainly, here are concise answers to your questions:   
 1. **What is gRPC, and how does it differ from traditional REST APIs?**   
     - gRPC is a high-performance remote procedure call (RPC) framework.   
